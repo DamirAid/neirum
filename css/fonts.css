@@ -1,0 +1,81 @@
+@font-face {
+	font-family: "OpenSansRegular";
+	src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+	src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSansRegular/OpenSansRegular.woff2") format("woff2"),
+			 url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoBold";
+	src: url("../fonts/RobotoBold/RobotoBold.eot");
+	src: url("../fonts/RobotoBold/RobotoBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoBold/RobotoBold.woff") format("woff"),
+			 url("../fonts/RobotoBold/RobotoBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "OpenSansExtraBold";
+	src: url("../fonts/OpenSansExtraBold/OpenSansExtraBold.eot");
+	src: url("../fonts/OpenSansExtraBold/OpenSansExtraBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSansExtraBold/OpenSansExtraBold.woff2") format("woff2"),
+			 url("../fonts/OpenSansExtraBold/OpenSansExtraBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "OpenSansBold";
+	src: url("../fonts/OpenSansBold/OpenSansBold.eot");
+	src: url("../fonts/OpenSansBold/OpenSansBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/OpenSansBold/OpenSansBold.woff2") format("woff2"),
+			 url("../fonts/OpenSansBold/OpenSansBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "MyriadProLightIt";
+	src: url("../fonts/MyriadProLightIt/MyriadProLightIt.eot");
+	src: url("../fonts/MyriadProLightIt/MyriadProLightIt.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/MyriadProLightIt/MyriadProLightIt.woff") format("woff"),
+			 url("../fonts/MyriadProLightIt/MyriadProLightIt.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/RobotoLight/RobotoLight.eot");
+	src: url("../fonts/RobotoLight/RobotoLight.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoLight/RobotoLight.woff") format("woff"),
+			 url("../fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoMediumItalic";
+	src: url("../fonts/RobotoMediumItalic/RobotoMediumItalic.eot");
+	src: url("../fonts/RobotoMediumItalic/RobotoMediumItalic.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoMediumItalic/RobotoMediumItalic.woff") format("woff"),
+			 url("../fonts/RobotoMediumItalic/RobotoMediumItalic.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoBlack";
+	src: url("../fonts/RobotoBlack/RobotoBlack.eot");
+	src: url("../fonts/RobotoBlack/RobotoBlack.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoBlack/RobotoBlack.woff") format("woff"),
+			 url("../fonts/RobotoBlack/RobotoBlack.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}

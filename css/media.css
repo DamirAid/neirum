@@ -1,0 +1,404 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+.contacts{
+	right: 30px;
+}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+.brends .block .item{
+	width: 30%;	
+}
+.sec_7 p{
+	padding: 0 30px 2px;	
+}
+.neirum_banner .text_wrap p{
+	padding-right: 10px;
+}
+.logo,.contacts{
+	width: 49%;
+
+}
+.contacts{
+	position: static;
+	text-align: right;
+	order: 2;
+}
+.logo{
+	text-align: left;
+	order: 1;
+}
+.nav_line{
+	padding: 0;
+	margin: 20px auto;
+	order: 3;
+}
+.goals .block .item p{
+	  padding: 15px;
+    height: 150px;
+}
+.curses_sec .block .item{
+	margin: 0 auto 110px;
+}
+.neirum_block_child.flex{
+	justify-content: space-between;
+	-ms-align-items: center;
+	align-items: center;
+}
+.neirum_block_child.flex>.img_wrap{
+	width: 40%;
+}
+.neirum_block_child .text_wrap{
+	margin-top: 0;
+}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+.neirum_banner .text_wrap{
+		top: 3%;
+    text-align: center;
+    width: 100%;
+    line-height: 36px;	
+}
+.neirum_banner .text_wrap h3,.neiroboss_banner .text_wrap h3{
+	font-size: 27px;
+	line-height: 31px;
+}
+.neirum_banner .text_wrap p{
+	line-height: 19px;
+	font-size: 14px;
+}
+.sec_3 h3{
+	font-size: 20px;
+}
+.neiroboss_banner .text_wrap p{
+	font-size: 14px;
+	padding-top: 3px;
+}
+.neiroboss_banner .text_wrap{
+	left: 0;
+	top: 2%;
+	text-align: center;
+	width: 100%;
+}
+.sec_4_descr{
+	padding: 30px 0;
+}
+.email_sec .block{
+	padding: 5px 10px;
+}
+.sec_5 .block:first-child p{
+	padding: 23px 15px;
+}
+.sec_5 .block:nth-child(2) p{
+	 padding: 14px 15px;
+}
+.sec_6 .block .item{
+	width: 35%;
+}
+.brends .block .item,.brends .block .item:first-child,.brends .block .item:nth-child(2),.brends .block .item:nth-child(3),.brends .block .item:nth-child(4){
+	width: 40%;
+}
+.follow_sec .block{
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.follow_sec .follow_sec_title .img_wrap,.follow_sec .follow_sec_title h2{
+	display: block;
+	padding-left: 0;
+	text-align: center;
+}
+.follow_sec .follow_form p{
+	font-size: 17.8px;
+	text-align: center;
+}
+.btn_call,nav.top_mnu{
+	margin: 10px auto;
+}
+.goals .block .item{
+	margin: 0 auto 20px;
+	width: 299px;
+}
+.our_programs_sec .block .item{
+	width: 49%;
+}
+.curses_banner_sec p{
+	padding: 20px 0;
+}
+.preim_sec .block .item{
+	width: 48%;
+}
+.franchaizing_banner h2{
+	font-size: 25px;
+}
+.preim_paragraph{
+	padding: 0 20px;
+}
+.preim_list li{
+	font-size: 20px;
+}
+.contacts_title h2{
+	font-size: 30px;
+}
+.contacts_title p{
+	font-size: 20px;
+}
+.contacts_block span, .contacts_block a{
+	font-size: 18px;
+}
+.neirum_sec h2{
+	font-size: 30px;
+}
+.neirum_block_child .text_wrap{
+	width: 200px;
+	font-size: 20.5px;
+	margin-left: 0;
+}
+.rewievs_sec .block .item{
+	margin-bottom: 30px;
+}
+.rewiev_paragraph p{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.best_edu_sec h2{
+	line-height: 35px;
+}
+.best_edu_sec_descr{
+	padding: 30px 20px;
+}
+.best_edu_inner .block .item{
+	width: 100%;
+	margin-bottom: 30px;
+}
+.neiroboss_banner .text_wrap{
+	width: 90%;
+	margin: 0 auto;
+	right: 0;
+}
+.neiroboss_banner .text_wrap p{
+	font-size: 11px;
+}
+span.label{
+	width: 84%;
+}
+span.checkbox-custom{
+	vertical-align: top;
+	margin-top: 5px;
+}
+body .online_zapis .follow_form{
+	text-align: center;
+}
+.message_form p{
+	padding-left: 0;
+	padding-right: 0;
+}
+}
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+.head_banner h1{
+    font-size: 15px;
+    line-height: 26px;	
+}
+h2{
+	font-size: 19px;
+	line-height: 26px;
+}
+.neirum_sec .neirum_citat{
+	font-size: 14px;
+}
+.neirum_banner .text_wrap p,.neiroboss_banner .text_wrap p{
+	display: none;
+}
+.neirum_banner .text_wrap,.neiroboss_banner .text_wrap{
+	top: 20%;
+}
+.neirum_banner .text_wrap h3, .neiroboss_banner .text_wrap h3{
+	font-size: 24px;
+}
+.neirum_descr{
+	padding: 42px 0;
+}
+.sec_3 .block,.email_sec .block{
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.email_sec .block input,.follow_sec .follow_form input{
+	width: 83%;
+}
+.sec_5 .sec_5_red span{
+	font-size: 10px;
+}
+.sec_6 .block .item{
+	width: 100%;
+}
+.brends .block{
+	padding-left: 0;
+}
+.brends .block .item, .brends .block .item:first-child, .brends .block .item:nth-child(2), .brends .block .item:nth-child(3), .brends .block .item:nth-child(4){
+	width: 100%;
+	text-align: center;
+}
+.follow_sec .follow_sec_title h2{
+	font-size: 20px;
+}
+.top_mnu ul li{
+	padding: 3px 2px;
+
+}
+.top_mnu ul li a{
+	font-size: 12px;
+}
+.contacts span{
+	font-size: 16px;
+}
+.logo{
+	width: auto;
+}
+.contacts{
+	width: 66%;
+}
+.follow_sec .follow_form .btn_follow
+{
+	width: 260px;
+}
+.lozung_sec h2{
+	font-size: 20px;
+	line-height: 24px;
+}
+.citat_block_sec_item,section.mission_sec p{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.citat_block_sec_item p,section.mission_sec p{
+	font-size: 12px;
+}
+.about_title{
+	font-size: 30px;
+}
+.our_programs_sec .block .item{
+	width: 100%;
+}
+.program_paragraph{
+	font-size: 16px;
+	line-height: 23px;
+}
+.franchaizing_banner{
+	padding: 30px 20px 30px;
+}
+.franchaizing_banner h2{
+	font-size: 17px;
+}
+.franchaizing_descr{
+	font-size: 34px 10px 0;
+}
+.preim_sec .block .item{
+	width: 100%;
+}
+.contacts_title h2{
+	font-size: 23px;
+}
+.contacts_title p{
+	font-size: 16px;
+}
+.contacts_block span, .contacts_block a{
+	font-size: 13px;
+}
+.neirum_sec h2{
+	font-size: 16px;
+	line-height: 29px;
+}
+.neirum_block_child.flex>.img_wrap{
+	width: 100%;
+}
+.neirum_block_child .text_wrap{
+	width: 100%;
+	margin-top: 20px;
+}
+.rewievs_sec .block .item_wrap p{
+	height: 260px;
+}
+.main_skills h2{
+	font-size: 27px;
+}
+.atlas_sec p{
+	padding: 0 20px; 
+}
+.btn_atlas{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 17px;
+}
+.best_edu_sec h2{
+	font-size: 25px;
+}
+.best_edu_sec h2 small{
+	font-size: 25px;
+}
+.skills_paragraph{
+	padding: 5px 10px;
+}
+.best_edu_inner h3{
+	font-size: 22px;
+}
+.sec_6 h2{
+	font-size: 20px;
+}
+.sec_7 p{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.follow_sec .follow_form select{
+	width: 90%;
+}
+.rail-select{
+	width: 100%;
+}
+.email_sec .block input, .follow_sec .follow_form input{
+	font-size: 12px;
+}
+.follow_sec .follow_form textarea{
+	margin-right: 10px;
+	width: 83%;
+}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
